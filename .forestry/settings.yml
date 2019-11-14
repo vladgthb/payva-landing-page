@@ -27,7 +27,6 @@ sections:
 - type: document
   path: src/pages/blogs.md
   label: Blogs
-  match: "**/*"
 - type: document
   path: src/pages/elements.md
   label: Elements
